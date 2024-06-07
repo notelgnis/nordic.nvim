@@ -158,7 +158,7 @@ function M.get_groups()
     G.Question = { fg = C.info } -- |hit-enter| prompt and yes/no questions
     G.QuickFixLine = { bg = C.bg_visual, bold = true } -- Current |quickfix| item in the quickfix window. Combined with |hl-CursorLine| when the cursor is there.
     -- G.Search = { bg = C.bg_visual, fg = C.yellow.bright, bold = true, underline = true } -- Last search pattern highlighting (see 'hlsearch').  Also used for similar items that need to stand out.
-    G.Search = { bg = C.magenta.bright, fg = C.black2, bold = true } 
+    G.Search = { bg = C.magenta.bright, fg = C.black1, bold = true } 
     G.IncSearch = { bg = C.yellow.base, fg = C.bg_visual, bold = true } -- 'incsearch' highlighting; also used for the text replaced with ":s///c"
     G.CurSearch = { link = 'IncSearch' }
     G.SpecialKey = { fg = C.gray5 } -- Unprintable characters: text displayed differently from what it really is.  But not 'listchars' whitespace. |hl-Whitespace|
