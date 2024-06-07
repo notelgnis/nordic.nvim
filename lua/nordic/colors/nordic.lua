@@ -71,7 +71,7 @@ local palette = {
     },
     magenta = {
         base = '#B48EAD',
-        bright = '#ffd480', --'#ffbf80', --'#BE9DB8',
+        bright = '#ff8566', --'#ffd480', --'#ffbf80', --'#BE9DB8',
         dim =  '#A97EA1',
     },
 }
