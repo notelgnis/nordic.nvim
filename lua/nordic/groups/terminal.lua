@@ -8,7 +8,7 @@ function M.get_groups()
     G.terminal_color_8 = C.gray2
     G.terminal_color_1 = C.red.base
     G.terminal_color_9 = C.red.bright
-    G.terminal_color_2 = C.green.base
+    G.terminal_color_2 = C.red.base --C.green.base
     G.terminal_color_10 = C.green.bright
     G.terminal_color_3 = C.yellow.base
     G.terminal_color_11 = C.yellow.bright
