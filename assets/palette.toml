@@ -34,7 +34,7 @@ palette = [
       ["#D79784", "orange_b"          ],
       ["#EFD49F", "yellow_b"          ],
       ["#B1C89D", "green_b"           ],
-      ["#ff9933", "magenta_b"         ]
+      ["#BE9DB8", "magenta_b"         ]
     ],
     [
       ["#88C0D0", "blue2"             ],
@@ -43,7 +43,7 @@ palette = [
       ["#CB775D", "orange_d"          ],
       ["#E7C173", "yellow_d"          ],
       ["#97B67C", "green_d"           ],
-      ["#A97EA1", "magenta_d"         ]
+      ["#ff9933", "magenta_d"         ]
     ]
 ]
 
