@@ -25,7 +25,7 @@ palette = [
       ["#D08770", "orange"          ],
       ["#EBCB8B", "yellow"          ],
       ["#A3BE8C", "green"           ],
-      ["#B48EAD", "magenta"         ]
+      ["#ff9933", "magenta"         ]
     ],
     [
       ["#81A1C1", "blue1"             ],
