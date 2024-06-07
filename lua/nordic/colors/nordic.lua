@@ -41,9 +41,9 @@ local palette = {
     blue2 = '#88C0D0',
 
     cyan = {
-        base = '#8FBCBB',
-        bright = '#9FC6C5',
-        dim = '#80B3B2',
+        base = '#ff9933', --'#8FBCBB',
+        bright = '#ff9933', --'#9FC6C5',
+        dim = '#ff9933', --'#80B3B2',
     },
 
     -- Aurora.
